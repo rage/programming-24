@@ -529,4 +529,4 @@ A quiz to review the contents of this section:
 
 Please respond to a quick questionnaire on this week's materials. The questionnaire is worth one exercise point.
 
-<quiz id="9606c6c1-70f4-5236-bd3e-7208b56e7b9e"></quiz>
+<quiz id="bcfae104-8cad-5fcd-ac64-d65ae689ac5f"></quiz>
