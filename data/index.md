@@ -7,7 +7,8 @@ banner: true
 sidebar_priority: 7000
 ---
 
-**The course start on January 16th 2023.**
+**The course starts on January 15th 2024.**
+
 This is the course material page for the Introduction to Programming course (BSCS1001, 5 cr) and the Advanced Course in Programming (BSCS1002, 5 cr) from the Department of Computer Science at the University of Helsinki.
 
 To pass either of the two courses you are expected to complete programming exercises and take part in an exam. Please see the [Grading and exams](/grading-and-exams) page for more details.
@@ -26,15 +27,11 @@ Use Discord primarily for communication. You can be in contact with the course t
 
 ## Timetable
 
-The course will be open until the end of the year 2023.
+The course will be open until the end of the year 2024.
 
 ## Lectures
 
-Live lectures can be followed on Thursdays at 10:15 in [Zoom](https://helsinki.zoom.us/j/61997878100?pwd=VkJYZmRoN1M5R21uZVlFaUdkYlJDUT09) (Link updated for Advanced Course!)
-
-There is no lecture on Thursday 9.11.2023. Instead the lecture will be held on Monday 13.11.2023 at 12:15 in the same zoom link as above.
-
-The lecture recordings are shared on this page after the lectures.
+Live lectures (via Zoom) will be organized in Fall 2024. Below, you will find the recordings of the 2023 lectures
 
 Please note, that exam dates and similar information in the older recordings may not concern this year's course.
 
