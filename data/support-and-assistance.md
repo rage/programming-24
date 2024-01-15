@@ -14,8 +14,8 @@ The 2024 course will offer guidance at both the Kumpula campus and on Discord. T
 
 | Time / Date | MON | TUE | WED | THU | FRI |
 |-----|----|----|----|----|----|
-| 10-11 | - | Campus | - | Discord | - |
-| 11-12 | - | Campus | - | Discord | - |
+| 10-11 | - | Campus | - | - | - |
+| 11-12 | - | Campus | - | - | - |
 | 12-13 | - | - | Campus / Discord | Campus | - |
 | 13-14 | - | - | Campus / Discord | Campus | - |
 | 14-15 | - | - | - | - | - |
