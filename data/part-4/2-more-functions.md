@@ -434,7 +434,7 @@ The idea here is that if `a` is smaller than `b`, the function returns `a` and e
 
 </sample-output>
 
-You can make use of the `return` statement even if the function doesn't return a value. It's purpose then is to end the execution of the function:
+You can make use of the `return` statement even if the function doesn't return a value. Its purpose then is to end the execution of the function:
 
 ```python
 def greet(name):
@@ -476,7 +476,7 @@ The sum is 10
 
 </sample-output>
 
-The return value of a function is a value just like any other. It is not necessary to store it in a variable in order give it as an argument to the `print` command:
+The return value of a function is a value just like any other. It is not necessary to store it in a variable in order to give it as an argument to the `print` command:
 
 ```python
 print("The sum is", my_sum(4, 6))
@@ -543,7 +543,7 @@ Both versions seem to be working just fine, as the maximum values are printed co
 max1(3, 5)
 ```
 
-nothing seems to happen. The return value of the function has to be _used_ in some way in the code which called the function. For instance, it can be store in a variable and printed out:
+nothing seems to happen. The return value of the function has to be _used_ in some way in the code which called the function. For instance, it can be stored in a variable and printed out:
 
 ```python
 result = max1(3, 5)
