@@ -22,7 +22,7 @@ To pass the Python Programming MOOC courses you are expected to both complete ex
 
 #### Advanced Course in Programming
 
-* Saturday 11.03.2024
+* Saturday 23.03.2024
 * Saturday 11.05.2024
 * Saturday 15.06.2024
 * Saturday 17.08.2024
