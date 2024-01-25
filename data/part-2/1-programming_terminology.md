@@ -278,7 +278,7 @@ Daily wages: 120.0 euros
 
 </sample-output>
 
-The issue must then lie within the condition of the `if` statement. As in so many situations in programming, the case of letters matters also in comparisons. Notice how the "sunday" in the Boolean expression has not been capitalized, but in the input it was. Let's fix this (in both the `print` command and the `if` statement):
+The issue must then lie within the condition of the `if` statement. As in so many situations in programming, the case of letters matters also in comparisons. Notice how the "sunday" in the Boolean expression has been capitalized, but in the input it was not. Let's fix this (in both the `print` command and the `if` statement):
 
 ```python
 # ...
