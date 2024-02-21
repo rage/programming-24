@@ -608,9 +608,9 @@ print("The median of the numbers is", median)
 
 In this version, following the programming logic is more difficult, as it is no longer clear which commands are a part of which functionality. The code fulfils the same purposes - reading in input, calculating the median value, and so on - but the structure is less clear.
 
-Organising your code into separate functions will improve you program's readability, but also make it easier to handle logical wholes. This in turn helps you that verify the program works as intended, as each function can be tested separately.
+Organising your code into separate functions will improve you program's readability, but also make it easier to handle logical wholes. This in turn helps you verify that the program works as intended, as each function can be tested separately.
 
-Another important use for functions is making code _reusable_. If you need to achieve some functionality twice is your program, it is a good idea to create your own function and name it appropriately:
+Another important use for functions is making code _reusable_. If you need to achieve some functionality multiple times in your program, it is a good idea to create your own function and name it appropriately:
 
 ```python
 print("Shoe sizes:")
@@ -629,7 +629,7 @@ Please write a function named `length` which takes a list as its argument and re
 
 ```python
 my_list = [1, 2, 3, 4, 5]
-result = length(my_list))
+result = length(my_list)
 print("The length is", result)
 
 # the list given as an argument doesn't need to be stored in any variable
