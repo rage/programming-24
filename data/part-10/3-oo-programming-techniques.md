@@ -177,7 +177,7 @@ Operator | Traditional meaning | Name of method
 `==` | Equal to | `__eq__(self, another)`
 `!=` | Not equal to | `__ne__(self, another)`
 `<=` | Less than or equal to | `__le__(self, another)`
-`>=` | Greter than or equal to | `__ge__(self, another)`
+`>=` | Greater than or equal to | `__ge__(self, another)`
 
 You can also implement some other operators, including the following arithmetic operators:
 
