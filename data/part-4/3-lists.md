@@ -454,9 +454,9 @@ The functions `max` and `min`, short for maximum and minimum, return the greates
 ```python
 my_list = [5, 2, 3, 1, 4]
 
-greatest = max(my_list))
-smallest = min(my_list))
-list_sum = sum(my_list))
+greatest = max(my_list)
+smallest = min(my_list)
+list_sum = sum(my_list)
 
 print("Smallest:", smallest)
 print("Greatest:", greatest)
