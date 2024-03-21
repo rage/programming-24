@@ -23,6 +23,8 @@ The 2024 course will offer guidance at both the Kumpula campus and on Discord. T
 
 In the table **Campus** means that the guidance session will be on campus, **Discord** means its remotely on Discord. During the on-campus sessions there might be help available also on Discord if the assistants have time to follow the course Discord.
 
+**The Guidance will be on a break between March 28th and April 3rd due to easter.**
+
 *The schedule is subject to change.*
 
 #### Discord
