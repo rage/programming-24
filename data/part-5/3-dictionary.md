@@ -584,7 +584,7 @@ age = 44
 The advantage of a dictionary is that it is a collection. It collects related data under one variable, so it is easy to access the different components. This same advantage is offered by a list:
 
 ```python
-person = ["Pippa Python", 153, 61, 44]
+person = ["Pippa Python", 154, 61, 44]
 ```
 
 With lists, the programmer will have to remember what is stored at each index in the list. There is nothing to indicate that `person[2]` contains the weight and `person[3]` the age of the person. When using a dictionary this problem is avoided, as each bit of data is accessed through a named key.
