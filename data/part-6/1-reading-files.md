@@ -572,9 +572,9 @@ This program works with two CSV files. One of them contains information about so
 
 ```csv
 id;first;last
-12345678;peter;pythons
-12345687;jean;javanese
-12345699;alice;adder
+12345678;pekka;peloton
+12345687;jaana;javanainen
+12345699;liisa;virtanen
 ```
 
 The other contains the number of exercises each student has completed each week:
