@@ -357,7 +357,7 @@ The CSV file given as input to the program looks like this:
 Peter;4;2;3;5;4;0;0
 Paula;7;2;8;3;5;4;5
 Susan;3;4;3;5;3;4;4
-Emily;6;6;5;5;0;4;8
+Emily;6;6;5;5;7;4;8
 
 </sample-data>
 
