@@ -171,7 +171,7 @@ Please write a function named `run(program)`, which takes a list containing the 
 
 You may assume the function will only be given programs which are entirely in the correct format. You do not have to implement any input validation or error handling.
 
-This exercise is worth two points. You will receive one point if the commands `PRINT`, `MOV`, `ADD`, `SUB`, `MUL` and `END` are working correctly. You will receice another point if the rest of the commands, which are used to implement loops, also work.
+This exercise is worth two points. You will receive one point if the commands `PRINT`, `MOV`, `ADD`, `SUB`, `MUL` and `END` are working correctly. You will receive another point if the rest of the commands, which are used to implement loops, also work.
 
 Below are some examples, which you may also use for testing. Example 1:
 

@@ -38,7 +38,7 @@ numbers = [1, 2, 3, 6, 5, 4, 7]
 strings = [str(number) for number in numbers]
 ```
 
-The second line above contains many of the same elements as the more traditional iterative apporach, but the syntax is different. One way of generalising a list comprehension statement would be
+The second line above contains many of the same elements as the more traditional iterative approach, but the syntax is different. One way of generalising a list comprehension statement would be
 
 `[<expression> for <item> in <series>]`
 
@@ -107,7 +107,7 @@ if __name__ == "__main__":
     print(factorials)
 ```
 
-List comprehensions allow us to express the same functionality more consisely, usually without losing any of the readability.
+List comprehensions allow us to express the same functionality more concisely, usually without losing any of the readability.
 
 We can also return a list comprehension statement from a function directly. If we needed a function for producing factorials for lists of numbers, we could achieve it very concisely:
 

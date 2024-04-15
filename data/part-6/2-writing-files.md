@@ -107,7 +107,7 @@ Hi Ada, we hope you enjoy learning Python with us! Best, Mooc.fi Team
 
 If you want to append data to the end of a file, instead of overwriting the entire file, you should open the file in append mode with the argument `a`.
 
-If the file doesn't yet exist, append mode works exatly like write mode.
+If the file doesn't yet exist, append mode works exactly like write mode.
 
 The following program opens the file `new_file.txt` and appends a couple of lines of text to the end:
 
@@ -421,7 +421,7 @@ Emily;41;5
 
 </sample-data>
 
-Notice how each function defined above is relatively simple, and they all have a single responsibility. This is a common and advisable approach when programming larger wholes. The single reponsibility principle makes verifying functionality easier. It also makes it easier to make changes to the program later, and to add new features.
+Notice how each function defined above is relatively simple, and they all have a single responsibility. This is a common and advisable approach when programming larger wholes. The single responsibility principle makes verifying functionality easier. It also makes it easier to make changes to the program later, and to add new features.
 
 Say we wanted to add a function for printing out the grade for a single student. We already have a function which determines the student's grade, so we can use this in our new function:
 
@@ -449,7 +449,7 @@ If we determine a certain functionality in the program needs fixing, in a well d
 
 Let's revisit the course grading project from the previous section. 
 
-As we left if last time, the program read and processed files containing student information, completed exercises and exam results. We'll add a file containing information about the course. An example of the format of the file:
+As we left it last time, the program read and processed files containing student information, completed exercises and exam results. We'll add a file containing information about the course. An example of the format of the file:
 
 <sample-data>
 

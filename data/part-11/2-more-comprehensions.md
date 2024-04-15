@@ -443,7 +443,7 @@ When the function is called with the arguments `most_common_words("comprehension
 
 </sample-output>
 
-NB: the case of letters affects the results, and all inflected forms are unique words in this exercise. That is, the words `List`, `lists` and `list` are each separate words here, and only `list` has enough occurrences to make it to the returned list. All punctutation should be removed before counting up the occurrences.
+NB: the case of letters affects the results, and all inflected forms are unique words in this exercise. That is, the words `List`, `lists` and `list` are each separate words here, and only `list` has enough occurrences to make it to the returned list. All punctuation should be removed before counting up the occurrences.
 
 It is up to you to decide how to implement this. The easiest way would likely be to make use of list and dictionary comprehensions.
 

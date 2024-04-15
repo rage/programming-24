@@ -296,7 +296,7 @@ Traceback (most recent call last):
 UnboundLocalError: local variable 'oldest' referenced before assignment
 ```
 
-The reason this happens is that the latter `for` loop is not executed at all, beacuse the file can only be processed once. Once the last line is read, the file handle rests at the end of the file, and the data in the file can no longer be accessed.
+The reason this happens is that the latter `for` loop is not executed at all, because the file can only be processed once. Once the last line is read, the file handle rests at the end of the file, and the data in the file can no longer be accessed.
 
 If we want to access the contents in the second `for` loop, we will have to `open` the file a second time:
 
@@ -426,7 +426,7 @@ with open("people.csv") as new_file:
 print(last_names)
 ```
 
-Exectuing this would print out
+Executing this would print out
 
 <sample-output>
 
@@ -662,7 +662,7 @@ liisa virtanen 3
 
 </sample-output>
 
-Each completed exercise is counted towards _exercise points_, so that completing at least 10 % of the total exercices awards 1 point, completing at least 20 % awards 2 points, etc. Completing all 40 exercises awards 10 points. The number of points awarded is always an integer number.
+Each completed exercise is counted towards _exercise points_, so that completing at least 10 % of the total exercises awards 1 point, completing at least 20 % awards 2 points, etc. Completing all 40 exercises awards 10 points. The number of points awarded is always an integer number.
 
 The final grade for the course is determined based on the sum of exam and exercise points according to the following table:
 
