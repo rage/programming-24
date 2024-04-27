@@ -93,7 +93,7 @@ Charlie Churchmouse
 
 </sample-output>
 
-Trying to print out the card number, however, causes and error:
+Trying to print out the card number, however, causes an error:
 
 ```python
 card = CreditCard("123456","Randy Riches")
