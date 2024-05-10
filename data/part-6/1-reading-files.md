@@ -912,9 +912,9 @@ First, write a function named `get_station_data(filename: str)`. This function s
 
 <pre>
 {
-  "Kaivopuisto: (24.950292890004903, 60.155444793742276),
-  "Laivasillankatu: (24.956347471358754, 60.160959093887129),
-  "Kapteeninpuistikko: (24.944927399779715, 60.158189199971673)
+  "Kaivopuisto": (24.950292890004903, 60.155444793742276),
+  "Laivasillankatu": (24.956347471358754, 60.160959093887129),
+  "Kapteeninpuistikko": (24.944927399779715, 60.158189199971673)
 }
 </pre>
 
