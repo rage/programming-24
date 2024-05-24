@@ -650,7 +650,7 @@ If the initial value is left out, `reduce` takes the first item in the list as t
 
 </text-box>
 
-**NB:** if the items in the series are of a different type than the intended reduced result, the thrd argument is mandatory. The example with the bank accounts would not work without the initial value. That is, trying this
+**NB:** if the items in the series are of a different type than the intended reduced result, the third argument is mandatory. The example with the bank accounts would not work without the initial value. That is, trying this
 
 ```python
 balances_total = reduce(balance_sum_helper, accounts)
