@@ -115,7 +115,7 @@ The variable `node_sum` is initialised to equal the value of the current node. T
 
 Please write a function named `greatest_node(root: Node)` which takes the root node of a binary tree as its argument.
 
-The function should return the node with the greatest value within the tree. The tree should be traversed recursively.
+The function should return the value of the node with the greatest value within the tree. The tree should be traversed recursively.
 
 Hint: the function `sum_of_nodes` in the example above may come in handy.
 
