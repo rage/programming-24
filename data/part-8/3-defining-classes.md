@@ -9,7 +9,8 @@ hidden: false
 After this section
 
 - You will know how to define your own classes
-- You will be able to create objects based on classes you've defined yourself
+-
+ You will be able to create objects based on classes you've defined yourself
 - You will know how to write a constructor
 - You are familiar with the parameter name `self`
 - You will know what attributes are and how they are used
@@ -266,7 +267,7 @@ Please also include a constructor in each class. The constructor should take the
 
 </programming-exercise>
 
-## Using objecs formed from your own classes
+## Using objects formed from your own classes
 
 Objects formed from your own class definitions are no different from any other Python objects. They can be passed as arguments and return values just like any other object. We could, for example, write some helper functions for working with bank accounts:
 
