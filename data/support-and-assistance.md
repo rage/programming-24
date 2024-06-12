@@ -6,7 +6,7 @@ information_page: true
 sidebar_priority: 4000
 ---
 
-### Guidance during the spring
+### Guidance during the summer
 
 The 2024 course will offer guidance at both the Kumpula campus and on Discord. The sessions on campus are held in Exactum BK107. The guidance sessions are the following
 
@@ -23,7 +23,7 @@ The 2024 course will offer guidance at both the Kumpula campus and on Discord. T
 
 In the table **Campus** means that the guidance session will be on campus, **Discord** means its remotely on Discord. During the on-campus sessions there might be help available also on Discord if the assistants have time to follow the course Discord.
 
-**The guidance sessions on June 4th and June 6th are exceptionally canceled. Instead, a replacement session will be held on Friday, June 7th from 2:00 PM to 4:00 PM (UTC+3) on Campus/Discord.**
+**Workshop guidance is on a break between June 24 and July 31. If you need on campus support during this period, please contact the course email at ohjelmoinnin-mooc@helsinki.fi.**
 
 *The schedule is subject to change.*
 
