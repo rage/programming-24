@@ -316,7 +316,7 @@ Hint: the function `sorted` can be used on strings as well.
 
 Please write a function named `palindromes`, which takes a string argument and returns `True` if the string is a palindrome. Palindromes are words which are spelled exactly the same backwards and forwards.
 
-Please also write a main function which asks the user to type in words until they type in a palindrome:
+Please also write a main program which asks the user to type in words until they type in a palindrome:
 
 <sample-output>
 
