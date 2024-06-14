@@ -331,7 +331,7 @@ neveroddoreven is a palindrome!
 
 </sample-output>
 
-**NB:**, the main function **should not be** within an `if __name__ == "__main__":` block
+**NB:**, the main program **should not be** within an `if __name__ == "__main__":` block
 
 </programming-exercise>
 
