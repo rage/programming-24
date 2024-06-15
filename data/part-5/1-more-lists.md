@@ -300,7 +300,7 @@ Alan: age 39 years, height 1.78 meters
 
 The `for` loop goes through the items in the outer list one by one. That is, each list containing information about a single person is, in turn, assigned to the variable `person`.
 
-Lists arent always the best way to present data, such as information about a person. We will soon come across Python _dictionaries_, which are often better suited to such situations.
+Lists aren't always the best way to present data, such as information about a person. We will soon come across Python _dictionaries_, which are often better suited to such situations.
 
 ## Matrices
 
@@ -333,7 +333,7 @@ print(my_matrix)
 
 </sample-output>
 
-Like any other list, the rows of the matrix can be traversed wth a `for` loop. The following code prints out each row of the matrix on a separate line:
+Like any other list, the rows of the matrix can be traversed with a `for` loop. The following code prints out each row of the matrix on a separate line:
 
 ```python
 my_matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]

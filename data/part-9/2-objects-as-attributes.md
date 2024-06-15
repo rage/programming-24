@@ -387,7 +387,7 @@ Dorothy (155 cm)
 
 ## The shortest person
 
-Please define the method `shortest()` within the `Room` class definition. The method should return the shortest person in the room it is called on. If the room is empty, the method should return `None`. The method should _not_ remove the person fron the room.
+Please define the method `shortest()` within the `Room` class definition. The method should return the shortest person in the room it is called on. If the room is empty, the method should return `None`. The method should _not_ remove the person from the room.
 
 ```python
 room = Room()

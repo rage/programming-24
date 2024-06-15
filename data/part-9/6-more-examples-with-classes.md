@@ -330,7 +330,7 @@ book.weight = 10
 
 Please write a class named `Suitcase`. You should be able to pack items into a suitcase. A suitcase also has a maximum combined weight for the items stored within.
 
-Your class should contains the following members:
+Your class should contain the following members:
 
 - a constructor which takes the maximum weight as an argument
 - a method named `add_item` which adds the item given as an argument to the suitcase. The method has no return value.
