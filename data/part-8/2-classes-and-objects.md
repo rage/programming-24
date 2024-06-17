@@ -237,7 +237,7 @@ print(years)
 
 <programming-exercise name='Shopping list' tmcname='part08-04_shopping_list'>
 
-The exercise template contains a pre-defined `ShoppingList` class, which can be used to model a shopping list. Your task is to add a method to the class definition. You do not need to change any methods already defined.
+The exercise template contains a pre-defined `ShoppingList` class, which can be used to model a shopping list.
 
 Assuming we have a `ShoppingList` object referenced in a variable named `shopping_list`, the object can be handled with the following methods:
 
