@@ -25,6 +25,8 @@ In the table **Campus** means that the guidance session will be on campus, **Dis
 
 **Workshop guidance is on a break between June 24 and July 31. If you need on campus support during this period, please contact the course email at ohjelmoinnin-mooc@helsinki.fi.**
 
+**The guidance is canceled on June 30 and July 2.**
+
 *The schedule is subject to change.*
 
 #### Discord
