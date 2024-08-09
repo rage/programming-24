@@ -12,6 +12,10 @@ const courseSettings = {
   bannerPath: "banner.svg",
   showExerciseDescriptionWhenNotLoggedIn: true,
   courseVariants: [
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "python-TVT24Eng"
+    },
     // {
     //   tmcOrganization: "hbc",
     //   tmcCourse: "python-TVT21A",
