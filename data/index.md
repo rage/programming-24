@@ -6,6 +6,14 @@ information_page: true
 banner: true
 sidebar_priority: 7000
 ---
+<notice>
+tmc.mooc.fi will be down for maintenance on <b>Tuesday, August 20</b> starting at <b>2 PM (UTC+3)</b> for about 2 hours. During this time, you won’t be able to:
+<ul>
+    <li>Submit exercise answers</li>
+    <li>Log in</li>
+    <li>Create accounts</li>
+</ul>
+</notice>
 
 **The course starts on January 15th 2024.**
 
