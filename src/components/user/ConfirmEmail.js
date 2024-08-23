@@ -48,7 +48,7 @@ class ConfirmEmail extends React.Component {
         </InfoBox>
         <p>
           {this.props.t("nowContinue")}{" "}
-          <Link to="/osa-1">{this.props.t("toMaterial")}</Link>.
+          <Link to="/part-1">{this.props.t("toMaterial")}</Link>.
         </p>
       </FormContainer>
     )
