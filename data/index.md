@@ -31,7 +31,10 @@ The course will be open until the end of the year 2024.
 
 ## Lectures
 
-Live lectures (via Zoom) will be organized in Fall 2024. Below, you will find the recordings of the 2023 lectures
+Live lectures are organized on Thursdays, starting on September 5th. 
+You can follow the lecture live via [Zoom](https://helsinki.zoom.us/j/63688020089?pwd=vKhxH2OMcOzPqcteFZHVqUiVCfdmOz.1) starting at 14.15.
+
+The lecture recordings are updated in the table below after the lecture. Until then, you can find last year's corresponding lecture in the table.
 
 Please note, that exam dates and similar information in the older recordings may not concern this year's course.
 
