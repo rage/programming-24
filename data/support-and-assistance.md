@@ -14,12 +14,12 @@ The 2024 course will offer guidance at both the Kumpula campus and on Discord. T
 |-----|----|----|----|----|----|
 | 10-11 | - | Campus/Discord | - | - | - |
 | 11-12 | - | Campus/Discord | - | - | - |
-| 12-13 | - | - | - | - | - |
-| 13-14 | - | - | - | - | - |
-| 14-15 | - | - | - | Campus/Discord | - |
-| 15-16 | - | - | - | Campus/Discord | - |
-| 16-17 | - | - | - | - | - |
-| 17-18 | - | - | - | - | - |
+| 12-13 | - | - | - | Campus/Discord | - |
+| 13-14 | - | - | - | Campus/Discord | - |
+| 14-15 | - | Campus | - | Campus | Campus |
+| 15-16 | - | Campus | - | Campus | Campus |
+| 16-17 | - | Campus | - | Campus | Campus |
+| 17-18 | - | Campus | - | Campus | Campus |
 
 In the table **Campus** means that the guidance session will be on campus, **Discord** means its remotely on Discord. During the on-campus sessions there might be help available also on Discord if the assistants have time to follow the course Discord.
 
