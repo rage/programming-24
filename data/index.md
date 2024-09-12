@@ -53,8 +53,8 @@ Please note, that exam dates and similar information in the older recordings may
       <td><a href="https://docs.google.com/presentation/d/1l28RVCzeJ7OsBIXWtERt4COwbSLtYL2ap_7sDNGqX68/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
-      <td>Part 2 (2023)</td>
-      <td><a href="https://youtu.be/xjBP3awP-I8">Recording 14.09.2023</a></td>
+      <td>Part 2</td>
+      <td><a href="https://youtu.be/AzeKTqyjjnc">Recording 12.09.2024</a></td>
       <td><a href="https://docs.google.com/presentation/d/1zKxONZbjNRkaULUW_T2geSq7RO003ipNvHR3ASPKPhc/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
