@@ -14,7 +14,7 @@ After this section
 
 The real advantages of recursion become evident when we come across problems where iterative solutions are difficult to write. Let's take a look at _binary trees_, for instance. A binary tree is a branched structure where we have nodes, and at each node the structure branches, at most, into two child branches with nodes of their own. A binary tree could then look like this (computer science is often considered a branch of the natural sciences, but our understanding of trees is a little topsy-turvy, as you'll notice):
 
-<img src="11_4_1.png">
+<img src="11_4_1_2.png">
 
 Binary trees should at least theoretically be easy to handle recursively: if we want to perform some operation on every node in the tree, our algorithm simply needs to
 
@@ -22,7 +22,7 @@ Binary trees should at least theoretically be easy to handle recursively: if we 
 2. Call itself on the child node on the left 
 3. Call itself on the child node on the right
 
-<img src="11_4_2.png">
+<img src="11_4_2_2e.png">
 
 As you can see from the image above, both the left and right "subtrees" are fully fledged binary trees themselves, and the only node left outside the recursive calls is the parent node, which is processed in step 1, before calling the function recursively. So, we can be sure that when the execution of the function finishes, each node has been visited exactly once. 
 
