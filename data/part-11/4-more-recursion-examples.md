@@ -149,7 +149,7 @@ A binary tree is especially useful when the nodes are sorted in a certain way. T
 
 Let's take a look a tree which is sorted as follows: the left child of each node is smaller than the node itself, and the right child is correspondingly greater.
 
-<img src="11_4_1.png">
+<img src="11_4_1_2.png">
 
 Now we can write a recursive algorithm for searching for nodes. The idea is very similar to the binary search from the previous section: if the current node is the node we are looking for, return `True`. Else, continue recursively with either the left or the right child tree. If the node is not defined, return `False`.
 
