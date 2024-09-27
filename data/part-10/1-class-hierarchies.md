@@ -307,7 +307,7 @@ class PlatinumCard(BonusCard):
         return bonus
 ```
 
-So, the bonus for a PlatinumCard is calculated by calling the overriden method in the base class, and then adding an extra 5 percent to the base result. An example of how these classes are used:
+So, the bonus for a PlatinumCard is calculated by calling the overridden method in the base class, and then adding an extra 5 percent to the base result. An example of how these classes are used:
 
 ```python
 if __name__ == "__main__":
