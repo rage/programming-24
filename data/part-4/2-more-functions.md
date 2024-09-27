@@ -689,7 +689,7 @@ Similarly, the return value of a function can be hinted at in the function defin
 
 ```python
 def ask_for_name() -> str:
-    name = input("Mikä on nimesi? ")
+    name = input("What is your name? ")
     return name
  ```
 
