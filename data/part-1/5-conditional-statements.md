@@ -14,7 +14,7 @@ After this section
 
 </text-box>
 
-Thus far, every program we have written has been executed line by line in order. Instead of executing every line of code every single time a program is run, it is often useful to create sections of the program which are are only executed in certain situations.
+Thus far, every program we have written has been executed line by line in order. Instead of executing every line of code every single time a program is run, it is often useful to create sections of the program which are only executed in certain situations.
 
 For example, the following code checks whether the user is of age:
 
