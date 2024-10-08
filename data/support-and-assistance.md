@@ -25,8 +25,6 @@ In the table **Campus** means that the guidance session will be on campus, **Dis
 
 *The schedule is subject to change.*
 
-**The guidance session on Thursday, September 26th, from 12:00 PM to 2:00 PM (UTC+3) is cancelled.**
-
 #### Discord
 
 Discord is a communication platform which allows both text-based and voice/video chats. You can find out more about the platform [on the Discord website](https://discord.com/).
