@@ -23,6 +23,12 @@ hide_in_sidebar: false
 * The exam ends at 10:00 PM (UTC+3) at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 6:00 PM (UTC+3) at the latest**.
 * You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM (UTC+3) at the latest.
 
+#### Alternative Exam Date
+
+* The alternative time to take this exam is on 24.10.2024 **from 10:00 AM to 4:00 PM (UTC+3)**.
+* The alternative exam has the same number of tasks and the same amount of time to complete them, but the time window during which you can take it is shorter.
+* **Do not take both exams.** If you participate in both the 19.10.2024 and 24.10.2024 exams, the lower score will stay in effect.
+
 
 #### Before the exam date
 

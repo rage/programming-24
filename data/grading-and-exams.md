@@ -13,6 +13,7 @@ To pass the Python Programming MOOC courses you are expected to both complete ex
 #### Introduction to Programming
 
 * Saturday 19.10.2024
+* Thursday 24.10.2024 **(Extra exam)**
 * Saturday 23.11.2024
 * Saturday 11.01.2025
 
@@ -22,6 +23,11 @@ To pass the Python Programming MOOC courses you are expected to both complete ex
 * Saturday 14.12.2024
 * Saturday 18.01.2025
 * Saturday 15.02.2025
+
+**NOTICE! An additional exam for the Introductoin to Programming course will be held on 24.10.2024. If you wish to participate in this exam, do not take the exam on 19.10.2024. If you take both exams, the lower score will be recorded.**
+
+*As an exception. the exam time on 24.10.2024 is from 10:00 AM to 4:00 PM (UTC+3), and technical support will be available from 10:00 AM to 12:00 PM (UTC+3). We recommend starting the exam during this period.*
+
 
 ## Taking a programming exam
 
