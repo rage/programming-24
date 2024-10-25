@@ -451,7 +451,7 @@ nina
 
 command: **6**
 programmer: **jonah**
-tasks: finished 2 not finished 1, hours: done 55 scheduled 1000
+tasks: finished 1 not finished 1, hours: done 55 scheduled 1000
 
 </sample-output>
 
