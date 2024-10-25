@@ -569,7 +569,7 @@ NB: Please don't formulate each spelled out number by hand. Figure out how you c
 Dictionaries are very useful for structuring data. The following code will create a dictionary which contains some personal data:
 
 ```python
-person = {"name": "Pippa Python", "height": 154, "weight": 61, "age:" 44}
+person = {"name": "Pippa Python", "height": 154, "weight": 61, "age": 44}
 ```
 
 This means that we have here a person named Pippa Python, whose height is 154, weight 61, and age 44. The same information could just as well be stored in variables:
