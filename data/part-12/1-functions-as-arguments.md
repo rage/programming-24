@@ -608,7 +608,7 @@ This should print out:
 
 Archie Bonkers
 ('Cruella De Hill', 9)
-BallPlayer(name=Donald Quack, number=4, goals=3, assists=9, minutes=12)
+BallPlayer(name=Donald Quack, number=4, goals=3, passes=9, minutes=12)
 
 </sample-output>
 
