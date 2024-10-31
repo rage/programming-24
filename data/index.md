@@ -83,9 +83,9 @@ Please note, that exam dates and similar information in the older recordings may
       <td><a href="https://docs.google.com/presentation/d/1Q6vO88F5fNjDpVqmyzrS8vcrxyNgZ84s67MOuM8UPa4/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
-      <td>Part 8 (2023)</td>
-      <td><a href="https://youtu.be/B6tm0FAy9wE">Recording 02.11.2023</a></td>
-      <td><a href="https://docs.google.com/presentation/d/1gBegxAXVWdm47AebP5gIGfFerwP1K0vyLRzX4GJtLjY/edit?usp=sharing">Slides</a></td>
+      <td>Part 8</td>
+      <td><a href="https://youtu.be/2Nl475qnZi4">Recording 31.10.2024</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1DAqKrB0vXLhNfvsibgxPuycPZTA44vUG9jOmN0FOAkw/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
       <td>Part 9 (2022)</td>
