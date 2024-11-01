@@ -16,6 +16,10 @@ const courseSettings = {
       tmcOrganization: "hbc",
       tmcCourse: "python-TVT24Eng"
     },
+    {
+      tmcOrganization: "insviladegracia",
+      tmcCourse: "python-viladegracia-2024"
+    },
     // {
     //   tmcOrganization: "hbc",
     //   tmcCourse: "python-TVT21A",
