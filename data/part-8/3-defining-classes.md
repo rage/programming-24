@@ -120,7 +120,7 @@ assigns the balance received as an argument to the balance attribute of the obje
 
 * The variable `self.balance` is an attribute of the object. Each `BankAccount` object has its own balance.
 
-* The variable `balance` is a parameter in the constructor method `__init__`. Its value is set to the value passed as an argument to the method as the constructor is called (that is, when a new insctance of the class is created).
+* The variable `balance` is a parameter in the constructor method `__init__`. Its value is set to the value passed as an argument to the method as the constructor is called (that is, when a new instance of the class is created).
 
 Now that we have defined the parameters of the constructor method, we can pass the desired initial values of the data attributes as arguments as a new object is created:
 
