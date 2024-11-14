@@ -94,7 +94,7 @@ Please note, that exam dates and similar information in the older recordings may
     </tr>
     <tr>
       <td>Part 10 (2023)</td>
-      <td><a href="https://youtu.be/C3jfc3Np4nA">Recording 16.11.2023</a></td>
+      <td><a href="https://youtu.be/4N4Qv4vaaMY">Recording 14.11.2024</a></td>
       <td><a href="https://docs.google.com/presentation/d/1ntybDeCoPykmTz0R8rjHAU03F8pGr1VZHQzj4UGId7g/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
