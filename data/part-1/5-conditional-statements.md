@@ -433,6 +433,23 @@ The suggestion should change if the temperature (measured in degrees Celsius) is
 
 Some examples of expected behaviour:
 
+| Inputs     | Range / Condition   | Suggestion                      |
+| ---------- | ------------------- | ------------------------------- |
+| `21`, `no` | `(20, +∞)`, `False` | `Wear jeans and a T-shirt`      |
+| `11`, `no` | `(-∞, 20]`, `False` | `Wear jeans and a T-shirt`      |
+|            |                     | `I recommend a jumper as well`  |
+| `7`, `no`  | `(-∞, 10]`, `False` | `Wear jeans and a T-shirt`      |
+|            |                     | `I recommend a jumper as well`  |
+|            |                     | `Take a jacket with you`        |
+| `3`, `yes` | `(-∞, 5]`, `True`   | `Wear jeans and a T-shirt`      |
+|            |                     | `I recommend a jumper as well`  |
+|            |                     | `Take a jacket with you`        |
+|            |                     | `Make it a warm coat, actually` |
+|            |                     | `I think gloves are in order`   |
+|            |                     | `Don't forget your umbrella!`   |
+
+Please note that the `Wear jeans and a T-shirt` suggestion should be printed at all times.
+
 <sample-output>
 
 What is the weather forecast for tomorrow?

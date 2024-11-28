@@ -189,7 +189,7 @@ numbers = (1, 2, 3)
 numbers = 1, 2, 3
 ```
 
-This means we can also easily return multiple values using tuples. Let's have alook at he following example:
+This means we can also easily return multiple values using tuples. Let's have a look at the following example:
 
 ```python
 def minmax(my_list):
