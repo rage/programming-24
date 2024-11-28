@@ -923,7 +923,7 @@ To the left of the dot is the object itself, which is referred to as `self` with
 
 The printout from the program is exactly the same as with the function implementation above.
 
-A rather cosmetic point to finish off: the `if...else` structure in the method `older_than` is by and large unneccessary. The value of the Boolean expression in the condition is already the exact same truth value which is returned. The method can thus be simplified:
+A rather cosmetic point to finish off: the `if...else` structure in the method `older_than` is by and large unnecessary. The value of the Boolean expression in the condition is already the exact same truth value which is returned. The method can thus be simplified:
 
 ```python
 class Person:

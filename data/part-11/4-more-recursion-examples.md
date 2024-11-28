@@ -459,7 +459,7 @@ The first exercise point is granted for a working application when all user inpu
 
 ## Handling errors in user input
 
-To gain the second exercise point for this exercise your application is expected to recover from erroneus user input. Any input which does not follow the specified format should produce an error message _erroneous input_, and result in yet another repeat of the loop asking for a new command:
+To gain the second exercise point for this exercise your application is expected to recover from erroneous user input. Any input which does not follow the specified format should produce an error message _erroneous input_, and result in yet another repeat of the loop asking for a new command:
 
 <sample-output>
 

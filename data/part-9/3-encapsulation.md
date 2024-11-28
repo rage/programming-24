@@ -289,7 +289,7 @@ ValueError: The amount must not be below zero
 
 </sample-output>
 
-**NB:** the getter method, i.e. the `@property` decorator, must be introduced before the setter method, or there will be an error when the class is executed. This is because the `@property` decorator defines the name of the "attribute" offerred to the client. The setter method, added with `.setter`, simply adds a new functionality to it.
+**NB:** the getter method, i.e. the `@property` decorator, must be introduced before the setter method, or there will be an error when the class is executed. This is because the `@property` decorator defines the name of the "attribute" offered to the client. The setter method, added with `.setter`, simply adds a new functionality to it.
 
 <programming-exercise name='Recording' tmcname='part09-10_recording'>
 

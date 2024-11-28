@@ -266,7 +266,7 @@ Please also include a constructor in each class. The constructor should take the
 
 </programming-exercise>
 
-## Using objecs formed from your own classes
+## Using objects formed from your own classes
 
 Objects formed from your own class definitions are no different from any other Python objects. They can be passed as arguments and return values just like any other object. We could, for example, write some helper functions for working with bank accounts:
 

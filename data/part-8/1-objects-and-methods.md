@@ -14,7 +14,7 @@ After this section
 
 </text-box>
 
-This is the first part of the Advanced Course in Programming. The material is designed to be used with the Visual Studio Code editor, just like the preceding Introduction to Programming course was. If you haven't use Visual Studio Code before, you will find the installation instructions [here](https://www.mooc.fi/en/installation/vscode), and an introduction to the programming environment from the previous course [here](/part-4/1-vscode).
+This is the first part of the Advanced Course in Programming. The material is designed to be used with the Visual Studio Code editor, just like the preceding Introduction to Programming course was. If you haven't used Visual Studio Code before, you will find the installation instructions [here](https://www.mooc.fi/en/installation/vscode), and an introduction to the programming environment from the previous course [here](/part-4/1-vscode).
 
 In the Introduction to Programming course we noticed that it often makes sense to group related data together in our programs. For example, if we are trying to store information about a book, it might make sense to use a tuple or a dictionary to organize the data into a single data structure.
 

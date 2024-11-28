@@ -176,7 +176,7 @@ for i in range(1, 9, 2):
 
 </sample-output>
 
-A step can also be negative. Then the range will be in reversed orded. Notice the first two arguments are also flipped here:
+A step can also be negative. Then the range will be in reversed order. Notice the first two arguments are also flipped here:
 
 ```python
 for i in range(6, 2, -1):

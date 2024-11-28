@@ -16,7 +16,7 @@ After this section
 
 ## Reading CSV files
 
-CSV is such a simple format that so far we have accessed the with hand-written code. There is, however, a ready-made module in the Python standard library for working with CSV files: [csv](https://docs.python.org/3/library/csv.html). It works like this:
+CSV is such a simple format that so far we have accessed with the hand-written code. There is, however, a ready-made module in the Python standard library for working with CSV files: [csv](https://docs.python.org/3/library/csv.html). It works like this:
 
 ```python
 import csv
@@ -308,7 +308,7 @@ timo;18:42
 kalle;13:23
 ```
 
-Additionally, the file `submissions.csv` contains points and handin times for individual exercises. The format here is `name;task;points;hh:mm`. An example:
+Additionally, the file `submissions.csv` contains points and handing times for individual exercises. The format here is `name;task;points;hh:mm`. An example:
 
 ```csv
 jarmo;1;8;16:05
@@ -332,7 +332,7 @@ You have the CSV files from the previous exercise at your disposal again. Please
 
 The tasks are numbered 1 to 8, and each submission is graded with 0 to 6 points.
 
-In the dicionary returned the key should be the name of the student, and the value the total points received by the student.
+In the dictionary returned the key should be the name of the student, and the value the total points received by the student.
 
 Hint: nested dictionaries might be a good approach when processing the tasks and submission times of each student.
 
