@@ -494,9 +494,9 @@ Some _functions_ are happy to take a list as an argument. Above we saw the funct
 my_list = [3, 2, 7, 1]
 
 # function calls take the list as an argument
-greatest = max(my_list))
-smallest = min(my_list))
-length = len(my_list))
+greatest = max(my_list)
+smallest = min(my_list)
+length = len(my_list)
 
 print("Smallest:", smallest)
 print("Greatest:", greatest)
@@ -504,7 +504,7 @@ print("Length of the list:", length)
 
 # another function call 
 # the list itself is an argument, the function returns a sorted copy
-in_order = sorted(my_list))
+in_order = sorted(my_list)
 print(in_order)
 ```
 
