@@ -16,7 +16,7 @@ The subject of the game is up to you, but it should be about as complicated as t
 * The game contains a counter which tells the player how they are doing in the game
 * The source code for the game is divided into functions like in the Sokoban example
 
-When the game is finished, submit it for peer revies with the following form. After this, familiarize yourself with the games of two of your coursemates, give the games a grade you deem appropriate,a dn write a short review of the game. Please take into account both how interesting and playable the game was, and how readable the program code is, when grading and reviewing the games.
+When the game is finished, submit it for peer reviews with the following form. After this, familiarize yourself with the games of two of your coursemates, give the games a grade you deem appropriate, and write a short review of the game. Please take into account both how interesting and playable the game was, and how readable the program code is, when grading and reviewing the games.
 
 ### Submitting the game
 
