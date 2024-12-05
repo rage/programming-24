@@ -7,7 +7,7 @@ banner: true
 sidebar_priority: 7000
 ---
 
-**The course starts on January 15th 2024.**
+**The course starts on January 15th, 2024.**
 
 This is the course material page for the Introduction to Programming course (BSCS1001, 5 ECTS) and the Advanced Course in Programming (BSCS1002, 5 ECTS) from the Department of Computer Science at the University of Helsinki.
 
@@ -27,16 +27,13 @@ Use Discord primarily for communication. You can be in contact with the course t
 
 ## Timetable
 
-The course will be open until the end of the year 2024.
+The course will be open until the end of the year 2024. However, if you take one of the last course exams in January of February 2025, you can keep doing the exercises until the exam day.
 
 ## Lectures
 
-Live lectures are organized on Thursdays, starting on September 5th. 
-You can follow the lecture live via [Zoom](https://helsinki.zoom.us/j/63688020089?pwd=vKhxH2OMcOzPqcteFZHVqUiVCfdmOz.1) starting at 10.15.
+There are no more live lectures for this year's MOOC instance. The lecture recordings can be viewed on the table below.
 
-The lecture recordings are updated in the table below after the lecture. Until then, you can find last year's corresponding lecture in the table.
-
-Please note, that exam dates and similar information in the older recordings may not concern this year's course.
+Please note that exam dates and similar information in the older recordings may not concern this year's course.
 
 <table>
   <thead>
@@ -106,6 +103,16 @@ Please note, that exam dates and similar information in the older recordings may
       <td>Part 12</td>
       <td><a href="https://youtu.be/IU2dDa1REJM">Recording 28.11.2024</a></td>
       <td><a href="https://docs.google.com/presentation/d/1zxc6lYSWK50wy_8Y2s1FKgCAOe9Nz1-0gS6tba2idg0/edit?usp=sharing">Slides</a></td>
+    </tr>
+    <tr>
+      <td>Part 13</td>
+      <td><a href="https://youtu.be/Z68y3vFet9o">Recording 05.12.2024</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1BmvKDdaVSgoYe2-vellNDkl9qFCZtKtWEYAKwWiOKdY/edit?usp=sharing">Slides</a></td>
+    </tr>
+    <tr>
+      <td>Part 14</td>
+      <td>No recording, project work</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
