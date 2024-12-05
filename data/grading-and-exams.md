@@ -12,7 +12,6 @@ To pass the Python Programming MOOC courses you are expected to both complete ex
 
 #### Introduction to Programming
 
-* Saturday 23.11.2024
 * Saturday 11.01.2025
 
 #### Advanced Course in Programming
@@ -24,7 +23,7 @@ To pass the Python Programming MOOC courses you are expected to both complete ex
 
 ## Taking a programming exam
 
-Once you have completed the required number of exercises for either of the courses, you may take the relevant course exam at any of the times listed above. Specifically, you must have received at least 25% of the exercise points for each of the seven parts on the course by 8 AM on the morning of the exam. If you are taking the advanced course exam, part 14 must be fully completed. If any of the seven points totals falls short of this limit, your exam submission will not be graded.
+Once you have completed the required number of exercises for either of the courses, you may take the relevant course exam at any of the times listed above. Specifically, you must have received at least 25% of the exercise points for each of the seven parts of the course by 8 AM on the morning of the exam. If you are taking the advanced course exam, part 14 must be fully completed. If any of the seven points totals fall short of this limit, your exam submission will not be graded. **Note!** If you are taking the Advanced Course exam on Dec. 14th, the deadline for part 14 is on January 1st, 2025.
 
 Submissions are assessed separately for the Introduction to Programming course (parts 1-7) and the Advanced Course in Programming (parts 8-14).
 
