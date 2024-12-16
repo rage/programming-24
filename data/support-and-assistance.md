@@ -12,18 +12,21 @@ The 2024 course will offer guidance at both the Kumpula campus and on Discord. T
 
 | Time / Date | MON | TUE | WED | THU | FRI |
 |-----|----|----|----|----|----|
-| 10-11 | - | Campus/Discord | - | - | - |
-| 11-12 | - | Campus/Discord | - | - | - |
-| 12-13 | - | - | Campus/Discord | - | - |
-| 13-14 | - | - | Campus/Discord | - | - |
-| 14-15 | - | Campus | - | Campus | - |
-| 15-16 | - | Campus | - | Campus | - |
-| 16-17 | - | Campus | - | Campus | - |
-| 17-18 | - | Campus | - | Campus | - |
+| 10-11 | - | - | - | - | - |
+| 11-12 | - | - | - | - | - |
+| 12-13 | - | - | - | - | - |
+| 13-14 | - | - | - | - | - |
+| 14-15 | - | Campus | - | - | - |
+| 15-16 | - | Campus | - | - | - |
+| 16-17 | - | Campus | - | - | - |
+| 17-18 | - | Campus | - | - | - |
 
 In the table **Campus** means that the guidance session will be on campus, **Discord** means its remotely on Discord. During the on-campus sessions there might be help available also on Discord if the assistants have time to follow the course Discord.
 
 *The schedule is subject to change.*
+
+**Official guidance will take a Christmas break starting from 17.12.2024.** In the meantime, it's recommended to ask for help on Discord. Next year's guidance times will be visible in the 2025 course materials: [https://programming-25.mooc.fi/support-and-assistance](https://programming-25.mooc.fi/support-and-assistance)
+
 
 #### Discord
 
