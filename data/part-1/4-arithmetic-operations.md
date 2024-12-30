@@ -103,7 +103,7 @@ A string can be converted into an integer with the function `int`. The following
 ```python
 input_str = input("Which year were you born? ")
 year = int(input_str)
-print(f"Your age at the end of the year 2021: {2021 - year}" )
+print(f"Your age at the end of the year 2021: {2021 - year}")
 ```
 <sample-output>
 
@@ -119,7 +119,7 @@ year = int(input("Which year were you born? "))
 print(f"Your age at the end of the year 2021: {2021 - year}" )
 ```
 
-Similarly, a string can be converted into a floating point number with the function `float`. This programs asks the user for their height and weight, and uses these to calculate their BMI:
+Similarly, a string can be converted into a floating point number with the function `float`. This program asks the user for their height and weight, and uses these to calculate their BMI:
 
 ```python
 height = float(input("What is your height? "))
