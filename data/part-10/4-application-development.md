@@ -14,19 +14,19 @@ After this section
 
 </text-box>
 
-Thus far in this course material we have covered a large number of Python features.
+Thus far in this course material, we have covered a large number of Python features.
 
-The Introduction to Programming course introduced control structures, such as while and for, functions, and basic data structures, such as lists, tuples and dictionaries. In principle, those tools are all that is needed to express anything a programmer may wish to express with Python.
+The Introduction to Programming course introduced control structures, such as while and for, functions, and basic data structures, such as lists, tuples, and dictionaries. In principle, those tools are all that is needed to express anything a programmer may wish to express with Python.
 
-On this Advanced Course in Programming, beginning in part 8 of the material, you have become familiar with classes and objects. Let's take a moment to consider when and _why_ they are necessary, if those basic tools from parts 1 to 7 should be enough.
+On this Advanced Course in Programming, beginning in part 8 of the material, you have become familiar with classes and objects. Let's take a moment to consider when and _why_ they are necessary, and if those basic tools from parts 1 to 7 should be enough.
 
 ## Managing complexity
 
 Objects and classes are by no means necessary in every programming context. For example, if you are programming a smallish script for one-time use, objects are usually surplus to requirement. However, when you are programming something larger and more complicated, objects become very useful.
 
-When programs grow in complexity, the amount of details quickly becomes unmanageable, unless the program is organised in some systematic way. Even some of the more complicated exercises on this course so far would have benefited from the examples set in this part of the material.
+When programs grow in complexity, the amount of details quickly become unmanageable, unless the program is organised in some systematic way. Even some of the more complicated exercises in this course so far would have benefited from the examples set in this part of the material.
 
-Fo decades the concept of [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns) has been one of the central principles in programming, and the larger field of computer science. Quoting from Wikipedia:
+For decades the concept of [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns) has been one of the central principles in programming, and the larger field of computer science. Quoting from Wikipedia:
 
 _Separation of concerns is a design principle for separating a computer program into distinct sections such that each section addresses a separate concern. A concern is a set of information that affects the code of a computer program._
 
@@ -34,15 +34,15 @@ Separating the program into sections, so that each has its own concern to handle
 
 Functions are one way of organising a program into distinct, manageable wholes. Instead of writing a single script, the idea is to formulate small, separately verifiable functions which each solve some part of the larger problem.
 
-Another common approach to managing larger programs is objects, through object oriented programming principles. There are benefits and drawbacks to both approaches, and each programmer has their own favourite. As we have seen so far, objects and classes allow us to collect all the data _and_ the code processing that data within a single unit, in the attributes and methods of an object. Furthermore, objects provide a way of encapsulating the data they control, so that other parts of the program do not have to worry about the internal details of an object.
+Another common approach to managing larger programs is objects, through object-oriented programming principles. There are benefits and drawbacks to both approaches, and each programmer has their own favorite. As we have seen so far, objects and classes allow us to collect all the data _and_ the code processing that data within a single unit, in the attributes and methods of an object. Furthermore, objects provide a way of encapsulating the data they control, so that other parts of the program do not have to worry about the internal details of an object.
 
 ## A worked example: phone book
 
-How should a program be divided into classes and objects? This is by no means an easy question with a single acceptable answer, so we will proceed with an example. In part five you completed [a phone book application](/part-5/3-dictionary#programming-exercise-phone-book-version-2), and now we will implement something similar using object oriented programming principles.
+How should a program be divided into classes and objects? This is by no means an easy question with a single acceptable answer, so we will proceed with an example. In part five you completed [a phone book application](/part-5/3-dictionary#programming-exercise-phone-book-version-2), and now we will implement something similar using object-oriented programming principles.
 
-Following the separation of concerns principle, a program should be divided into sections which each have their own cause to take care of. In object oriented programming this translates to the [single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle). Without going into the finer details, its fundamental purpose is clear from the name: _a single class and objects created based on it should have a single responsibility in the program_.
+Following the separation of concerns principle, a program should be divided into sections which each have their own cause to take care of. In object-oriented programming, this translates to the [single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle). Without going into the finer details, its fundamental purpose is clear from the name: _a single class and objects created based on it should have a single responsibility in the program_.
 
-Object oriented programming is often used as a way of modelling real world objects and phenomena. A single object in the real world is modelled with a single class in program code. In the case of a phone book such objects might be
+Object-oriented programming is often used to model real-world objects and phenomena. A single object in the real world is modeled with a single class in program code. In the case of a phone book such objects might be
 - a person
 - a name
 - a phone number
