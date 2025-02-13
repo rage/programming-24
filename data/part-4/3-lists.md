@@ -389,7 +389,7 @@ Notice how the method modifies the list itself. Sometimes we don't want to chang
 
 ```python
 my_list = [2,5,1,2,4]
-print(sorted(my_list)))
+print(sorted(my_list))
 ```
 
 <sample-output>
