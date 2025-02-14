@@ -1,6 +1,6 @@
 ---
 path: "/exam-adv"
-title: "Advanced Course in Programming exam 18.01."
+title: "Advanced Course in Programming exam 15.02."
 information_page: true
 sidebar_priority: 4800
 hide_in_sidebar: false
@@ -19,7 +19,7 @@ hide_in_sidebar: false
 #### Exam arrangements
 
 * Your solutions to the programming tasks in the exam will be submitted in the Visual Studio Code programming environment, in the same manner as the weekly exercises on the course.
-* The course exam can be taken on January 18th 2025 **between 10:00 (UTC+2) AM and 10:00 PM (UTC+2)**.
+* The course exam can be taken on February 15th 2025 **between 10:00 (UTC+2) AM and 10:00 PM (UTC+2)**.
 * The exam ends at 10:00 PM (UTC+2) at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 06:00 PM (UTC+2) at the latest**.
 * You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM (UTC+2) at the latest.
 
@@ -42,7 +42,7 @@ hide_in_sidebar: false
 2. Select the `My courses` view in the TMC menu.
 3. Click the `Add new course` button.
 4. Select the organization `Helsingin yliopisto`.
-5. Select the course `Advanced Course in Programming, autumn 2024, Online Exam 4`.
+5. Select the course `Advanced Course in Programming, autumn 2024, Online Exam 5`.
 6. Fetch the programming task templates.
 7. Try submitting the programming tasks.
 8. If you are able to submit the tasks, you are ready to take the exam. If not, get in touch with course instructors. Don't panic, we will work it out.
@@ -54,8 +54,8 @@ Please do not ask any questions about specific programming tasks assigned to you
 
 * The exam questions, in the form of programming task instructions, will become available at courses.mooc.fi at 10:00 AM on the day of the exam.
 * You should use your usual mooc.fi login details to log in at the exam page.
-* The exam questions can be found from here: <a href="https://courses.mooc.fi/org/uh-cs/exams/46b270ca-6c82-4af9-8dd7-9c06ad2a2bd6">https://courses.mooc.fi/org/uh-cs/exams/46b270ca-6c82-4af9-8dd7-9c06ad2a2bd6</a>
-* If you have been granted extra time through special arrangements, open the exam questions from this link: <a href="https://courses.mooc.fi/org/uh-cs/exams/8c09a5ba-05f4-4e01-a064-650b314631e3">https://courses.mooc.fi/org/uh-cs/exams/8c09a5ba-05f4-4e01-a064-650b314631e3</a>
+* The exam questions can be found from here: <a href="https://courses.mooc.fi/org/uh-cs/exams/56ca7b10-2b5a-450e-83de-4baa79046fa4">https://courses.mooc.fi/org/uh-cs/exams/56ca7b10-2b5a-450e-83de-4baa79046fa4</a>
+* If you have been granted extra time through special arrangements, open the exam questions from this link: <a href="https://courses.mooc.fi/org/uh-cs/exams/1c218ab6-bef9-46b8-9b1d-e081f3c12787">https://courses.mooc.fi/org/uh-cs/exams/1c218ab6-bef9-46b8-9b1d-e081f3c12787</a>
 * Your allocated exam time will begin when you click on the button `START THE EXAM!`.
 
 #### Submitting your solutions
@@ -67,7 +67,7 @@ Please do not ask any questions about specific programming tasks assigned to you
 #### Finishing the exam
 
 * Please make sure you have submitted all your programming tasks before finishing.
-* You can check the arrival of the exercises you have submitted to the server by logging in to the page [https://tmc.mooc.fi/org/hy/courses/1509](https://tmc.mooc.fi/org/hy/courses/1509). The programming task has arrived on the server if you can see the name of the task template and the time when you submitted the task.
+* You can check the arrival of the exercises you have submitted to the server by logging in to the page [https://tmc.mooc.fi/org/hy/courses/1534](https://tmc.mooc.fi/org/hy/courses/1534). The programming task has arrived on the server if you can see the name of the task template and the time when you submitted the task.
     * If you can't see your submissions, make sure you are logged in.
 * When you are done, you can close all Visual Studio Code tabs and windows, along with the exam question page. There is no need to do anything else.
 
