@@ -58,6 +58,13 @@ Please do not ask any questions about specific programming tasks assigned to you
 * If you have been granted extra time through special arrangements, open the exam questions from this link: <a href="https://courses.mooc.fi/org/uh-cs/exams/1c218ab6-bef9-46b8-9b1d-e081f3c12787">https://courses.mooc.fi/org/uh-cs/exams/1c218ab6-bef9-46b8-9b1d-e081f3c12787</a>
 * Your allocated exam time will begin when you click on the button `START THE EXAM!`.
 
+<notice>
+The log-in service is having some issues at the moment.
+</notice>
+
+
+**Note!** If you are unable to log-in the the exam page above, you can see the exam questions also here: <a href="https://github.com/Gudkat/Exam15022025_AdvancedCourseInProgramming/blob/main/README.md">https://github.com/Gudkat/Exam15022025_AdvancedCourseInProgramming/blob/main/README.md</a>
+
 #### Submitting your solutions
 
 * Your solutions to the programming tasks in the exam are submitted in the same manner as your solutions to the programming exercises on the course.
